@@ -1,0 +1,249 @@
+# MESSAGING COMMUNICATION RULES AND GUIDELINES
+
+---
+
+# 1. EMOTIONAL TONE
+
+## 1.1. "Emotion → Action" Rule
+Every stage of the dialogue:
+1. Emotion in response to the client's message
+2. Next logical step
+
+We ALWAYS emotionally react to the client's message. Not a million emojis, but a reaction ALWAYS EXISTS.
+
+Reaction examples:
+- "Great choice ✨"
+- "Yes, that looks really beautiful"
+- "Oh, that's my favorite option too"
+- "Excellent, let's lock it in"
+- "Wow, that's impressive 🔥"
+
+Chosen based on the meaning of the client's response. This is a template, not a memorized script. We react in a LIVELY way.
+
+If the client communicates dryly, find the golden mean, don't overdo it.
+
+## 1.2. Lightness in Messaging
+- Write the way you talk in real life
+- Fewer periods, dashes, unnecessary punctuation marks
+- Add humor, emotions where appropriate
+- Don't look like a document or portfolio
+- Don't look like a ChatGPT response
+- Messaging = a light dialogue, like between people who have a connection
+
+## 1.3. Compliments and Personalization
+- Give compliments sincerely, not formulaically
+- Notice SPECIFIC things (not "cool project," but "I especially liked the third option, apartment 225")
+- The client wants to hear about THEMSELVES, talk about THEM
+- Use the client's name (and the child's name, business name)
+- Mirror the client's words: "as you mentioned," "that's exactly why"
+- Don't overdo it, the golden mean
+
+---
+
+# 2. MESSAGE STRUCTURE
+
+## 2.1. The 3-Second Rule
+A message should be understandable in 3 seconds:
+- Break into paragraphs by meaning
+- The key question, separate from the main text (with a space or as a separate message)
+- Dates, with spaces
+- The client reads from the end, the question must be visible
+
+## 2.2. Message Length
+- Maximum one phone screen
+- If the message is long, the question goes in a SEPARATE message
+- Don't send walls of text
+- In portions, not everything at once
+- Split by meaning: 1st point, 2nd, 3rd (question)
+
+## 2.3. One Message, One Goal
+- Don't mix gifts, payment, and payment methods
+- Separate ideas with spaces or different messages
+- Each message = one task
+
+## 2.4. A Question at the End Is MANDATORY
+Every message should end with a question. Without a question, 80% go into ignore mode or respond with "thanks, got it."
+
+The question is visually separated: with a space from the text or as a separate message.
+
+---
+
+# 3. TYPES OF QUESTIONS
+
+## 3.1. Alternative Question (Main Tool)
+Offer a choice of options. The client CHOOSES rather than thinking "yes or no."
+
+Examples:
+- "Are weekdays or weekends more convenient for you?"
+- "Prepayment of 4,300 ₽ or full payment of 8,600 ₽?"
+- "Do you need training or script setup?"
+- "1, 3, 6, or 9 videos?"
+- "Turkish Lira or USDT?"
+
+## 3.2. Soft Questions
+- "What do you think?"
+- "How does that sound?"
+- "What do you say?"
+- "Does that work?"
+
+## 3.3. Closing Questions
+- "Deal?"
+- "Agreed?"
+- "Shall we finalize?"
+- "Shall we book it?"
+- "Shall we proceed to the contract?"
+
+## 3.4. Clarifying Questions
+- "Could you please tell me..."
+- "I'd like to clarify..."
+- "It's important for us to know..."
+- "Am I correct in understanding that...?"
+
+---
+
+# 4. FORMATTING LINKS
+
+Every link = explanation + expected result + visual order.
+
+A person should understand in 3 seconds:
+1. Where they'll end up
+2. What they'll see
+3. Why they should go there
+4. What's expected of them afterward
+
+- Each link, on a new line
+- Short clear labels
+- Visual anchors (emojis/markers) if there are many links
+
+**Rule: First the meaning → then the links → then the question**
+
+---
+
+# 5. CLARIFICATION MESSAGE FORMULA
+
+When there's confusion, things left unsaid:
+
+**Reflection → Choice → Confirmation → "Right?"**
+
+Example:
+> I'd like to clarify so we understand each other correctly 👌
+> Am I right that you need:
+>, An AI video ~50 seconds
+>, with effects and dynamics
+>, to attract clients
+>
+> Or is the task more about:
+>, a project presentation
+>, and investor trust?
+>
+> Right?
+
+One question mark. Short lines. No mess.
+
+---
+
+# 6. FINAL FILTER BEFORE SENDING
+
+Before every message:
+1. Is it understandable in 3 seconds?
+2. Is there one clear question?
+3. Is it comfortable to read?
+4. Does it make you want to respond?
+
+If even one answer is "no", rewrite.
+
+---
+
+# 7. VOICE MESSAGES
+
+- DO NOT send without asking at early stages
+- If the client writes in text, respond in text
+- Voice messages from the client, are valuable (more information, emotions, tone)
+- You can suggest: "You can respond with a voice message, whatever is more convenient"
+- If you do send one, keep it short, 1-2 minutes max
+
+---
+
+# 8. RESPONSE SPEED
+
+- First response, as fast as possible (minutes, not hours)
+- If you can't respond fully, a parking message with a specific time
+- NOT: "I'll write tomorrow" → YES: "I'll give you an exact answer by this evening"
+- It's better to promise later and respond sooner than to disappear
+- The client needs to understand: are they with you or should they look for options
+
+---
+
+# 9. RULES FOR DISCUSSING PRICE
+
+- Never price first
+- Value → Cost → Question
+- After the price, a question is MANDATORY
+- Don't be afraid to talk about money, confidence shows reliability
+- If you're squirming about the price, the client feels you're not confident in your own product
+
+---
+
+# 10. THINGS TO NEVER DO
+
+1. Don't send the client to "look it up yourself" (to website, to profile)
+2. Don't send a wall of text / price list without a dialogue
+3. Don't ignore messages
+4. Don't decide for the client (don't assume)
+5. Don't argue with objections
+6. Don't give up at "too expensive" (work through it)
+7. Don't send voice messages without asking
+8. Don't switch between channels without necessity
+9. Don't upsell before closing the main payment
+10. Don't write without a question at the end
+11. Don't use bureaucratic language and "old person tone"
+12. Don't use cutesy diminutives ("little application," "quick call-y")
+13. Don't pressure with deadlines and fake urgency
+14. Don't forget about the client after the conversation
+
+---
+
+# 11. DON'T THINK FOR THE CLIENT
+
+❌ Don't try to calculate in advance what they'll write, how they'll respond
+✅ Offer options, the client's task is to choose
+
+Frustration = expecting the client to "figure it out themselves."
+Sales = you take responsibility for clarity.
+
+---
+
+# 12. IF YOU DON'T HAVE TIME TO RESPOND RIGHT NOW
+
+Never go silent. Pin down specific timing:
+- "I'm in a meeting right now, I'll get back to you in 2 hours with a full answer"
+- "Checking the cost with a subcontractor, I'll have an exact answer by 6:00 PM today"
+- "Thanks for the request! I'm reviewing your project, I'll write by the end of the day"
+
+The client understands: the dialogue is active → the desire to look elsewhere decreases.
+
+---
+
+# 13. FOCUS ON THE PRODUCT
+
+If something isn't in the product line, don't emphasize it. Explain what you sell and keep the focus on that. Don't take on everything, become an expert in your niche.
+
+---
+
+# 14. WORKING WITH DIFFERENT GENERATIONS
+
+### Young Audience (under 25):
+- Simple, easy communication
+- Don't be overly casual because of their age
+- No bureaucratic language
+- No fake urgency
+
+### Older Audience:
+- May prefer calls
+- Value seriousness and detail
+- More patient in messaging
+
+### Universal:
+- Write shorter, simpler, with specifics
+- Explain the value of the next step
+- Adapt to the client's style

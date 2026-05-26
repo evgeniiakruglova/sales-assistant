@@ -1,0 +1,907 @@
+# COMPLETE SALES METHODOLOGY FOR MESSAGING
+## Priority Reference Document for Building Scripts and Algorithms
+
+---
+
+# PART 1. FOUNDATION, PHILOSOPHY AND CORE METHODOLOGY
+
+## 1.1. Key Understanding
+
+Selling through messaging is a PROCESS, not just answering questions. Every conversation has stages, and if you skip even one stage, the client "drops off" (ignoring, "I'll think about it," etc.).
+
+Messaging is not a document, not a portfolio, not a presentation. What makes messaging different is its LIGHTNESS. More sales happen through messaging where there is lightness, humor, and lively communication. It's like when a guy and a girl start texting, there's a connection, anticipation of the next message, it's funny, they're smiling. You need to create the same light atmosphere in sales.
+
+A messenger is simply a communication channel with the client. If we have nothing to say, then a message will only demonstrate that we have nothing to say. The problem is much deeper than message templates, whether the business can convey the value of what it sells. You need to know how to explain value, show benefits, and work with deferred demand.
+
+First, the foundational understanding of sales and communication in messaging, the foundation in your head. ChatGPT can later fix punctuation and phrasing. But the foundation is in your head.
+
+## 1.2. The Selling Messaging Formula (Core Methodology)
+
+**Goal → Questions → Solution → Action**
+
+These are the four steps around which every message and the entire conversation is built.
+
+### Goal
+Before writing a message, you need to clearly understand: what result you are leading the person to and what should happen at the end of the conversation. If there is no goal, the conversation turns into idle chat.
+
+Examples of goals:
+- Schedule a trial lesson / workshop / demo
+- Schedule a call (3-5 minutes)
+- Visit / in-person meeting
+- Get a prepayment or payment
+- Get initial data from the lead
+- Propose a work format
+- Schedule a diagnostic session with an expert
+
+### Questions
+Questions are needed to: understand the client's task, eliminate misunderstandings, avoid unnecessary work, and move the conversation forward.
+
+Rules for questions:
+- Calm, without pressure
+- With answer options, alternative questions (it's easier for people to choose than to come up with an answer from scratch)
+- Don't turn it into an interrogation, one or two questions, then confirmation, then the next question
+- Questions are asked NOT for the sake of asking, but to form a proposal
+- Each question should move toward the goal
+
+### Solution
+Proposing what fits the client's specific request. After their answers: don't tell them everything, don't offer unnecessary things.
+
+Marker phrase: "In your case, this would be the perfect fit..."
+
+The solution is always: specific, clear, connected to what the person said themselves. This is where the client will be delighted by your professionalism, they see that you're listening, that you're generating ideas, you're ENGAGED in the process.
+
+### Action
+Every conversation must end with "what to do next." Without action, there is no sale.
+
+This can be: payment, scheduling a call, sending materials, confirming the work format, scheduling a diagnostic session.
+
+## 1.3. Super Simple Messaging Algorithm
+
+1. **Greeting**
+2. **Empathy** (reaction to what the client writes)
+3. **What is the person's task / business / situation**
+4. **Main part**, TALK ABOUT THE CLIENT, NOT ABOUT YOURSELF
+5. **Call to action** (a question that leads to the next step)
+
+Most often, people drop off during the main part when the expert starts talking about themselves, about how wonderful and great they are, instead of following the algorithm.
+
+---
+
+# PART 2. CLIENT PSYCHOLOGY
+
+## 2.1. Key Fears and Motivations
+
+- **The client is afraid of making the wrong choice**, this is the key problem in sales. A salesperson who shows through their communication that the choice will be the right one always rises higher in the client's eyes.
+- The client wants to hear about THEMSELVES, their project, their task, not about how great an expert you are
+- The client doesn't want to be pressured
+- The client compares offers, you need to be the one who asked a question or made a call to action
+- Clients don't buy immediately, sometimes they come back months later. This is normal
+- Different clients prefer different communication formats, you need to adapt
+
+## 2.2. What the Client Wants to See
+
+- When a client sends something (their project, request, brief), they want to hear about THEMSELVES. Not about what a great expert you are.
+- The client cares about not knowledge, but CHANGES
+- Not the methodology, but the REACTION / RESULT
+- Not product features, but BENEFITS for them personally
+- The client wants to understand: do you see value in them? Do you believe you can help?
+
+## 2.3. Previous Consumption Experience
+
+This is a key question that is often overlooked. A person who has already done a renovation and someone doing it for the first time are two different types of clients. You need to build the conversation differently with each. Pros don't need the basics spelled out, while newcomers need everything explained.
+
+If we mix them up, talking to a pro like a beginner, to a beginner like a pro, deals fall apart.
+
+## 2.4. What the Client Has Already Seen
+
+Have they watched content, read reviews, are they familiar with the company's approach? If they've been reading the channel for a year, they're already familiar with the approach. If they came from a search engine, they know nothing. This is important information to consider when selling.
+
+---
+
+# PART 3. DETAILED SALES STAGES IN MESSAGING
+
+## STAGE 0. Preparation Before Messaging
+
+### What you need to understand and consider in advance:
+- The client is afraid of making the wrong choice
+- The client compares competitors/schools/offers
+- The client doesn't want to be pressured
+- The client wants to understand if this is right specifically for them/their child/their business
+
+### Target Action of the Conversation
+Always defined BEFORE the conversation begins. One of the following:
+- Schedule a trial lesson / workshop / demo
+- Short call (3-5 minutes)
+- Visit / in-person meeting
+- Payment / prepayment
+- Schedule a diagnostic session
+
+**If you don't know where the conversation is heading, the messaging will fall apart, followed by being ignored by the potential client.**
+
+### Researching the Client Before the First Message
+- If the client wrote first, look at their profile, social media, understand the context
+- If you're writing first, do research: what they do, what problems they have, what news hooks exist
+- If you don't know something (an unfamiliar tool like Mailchimp), go to ChatGPT, find out yourself. DO NOT ask the client things you can find out on your own
+- Prepare relevant cases/examples from their niche
+
+## STAGE 1. First Message, The Right Start
+
+### The Main Mistake
+Simply answering questions without asking follow-up questions. This turns the conversation into a reference desk. The client got their answer, and left.
+
+"How much does it cost?" → "250 rubles" → "Thanks" → End. Lost the client.
+
+### The Right Logic for the First Response: Answer → Warmth → Question
+
+Example:
+> Hi, Alena ✨
+> Classes are suitable for children ages 6 to 12
+>
+> Could you please tell me how old your child is so we can find the right group for you? ☺️
+
+### Why a question is needed in the first message:
+- It initiates dialogue
+- It gives a feeling of attention
+- It helps personalize the response
+- Without a question, the conversation often ends, the client got their answer and went to whoever asked a question
+
+### The First Question Should Be SIMPLE
+When a person has just written, it's important not to scare them off with complex questions. Don't immediately ask about weight, height, budget, or technical details. You need to ask a super simple question, an alternative question with choices.
+
+90% of clients who were asked a simple first question end up making a purchase, because they need an easy first step. When questions are simple, answers are simple. The key point: they need something to CHOOSE from. If you ask an open-ended question like "what kind of kimono do you want?", they're not standing in a store, they're in a chat. You need to provide choices.
+
+### Personalizing the First Touch
+The message should be tied to where the client came from: what they reacted to, what they viewed, where they heard about you. A seamless continuation of the contact that already existed.
+
+"Hello, what is your question?" ❌
+"Vitaliy, hello! You looked at the floor plans for apartment X. What did you think? Could you tell me what's more important to you right now, the neighborhood or the square footage?" ✅
+
+### Response Speed
+Critically important. Response speed must be shorter than the time it takes for the client to reach out to a competitor.
+
+- If you can't respond thoroughly, a parking message: "Thanks for your inquiry! Received. We'll follow up in detail within an hour."
+- It's important that the client sees the conversation is ACTIVE
+- Measure the initial response time for each deal, there may be an unpleasant discovery
+
+### If the Client Tries to Call, but the Format Is Messaging
+Gently explain: "I don't speak Turkish / all communication is through chat / I work the same way with other clients." Normalize the format without pushing away.
+
+## STAGE 2. Client Qualification
+
+### Goal of this stage, find out:
+- What the client specifically needs (task, request)
+- What their previous experience is (already used something similar or first time?)
+- Expectations and important criteria
+- Source of urgency (when they want to buy, is there a deadline)
+- What they've already seen from the company's content/marketing
+- Child's age / business size / budget (depending on the niche)
+
+### How to ask questions without turning it into an interrogation:
+- One or two questions at a time
+- After the client's answer, give confirmation, something valuable, a mini-tip
+- Softening phrases: "Could you tell me...", "I'd like to clarify...", "It's important for us to know..."
+- DO NOT send a batch of 10 questions
+- Give confirmation between questions: "Yes, we have that, great that you reached out"
+
+If we think about our own real-life conversations, it's not an interrogation, it's a back-and-forth exchange of messages. Ask one question, answer, send a meme, throw in an emoji. It's the same in sales.
+
+### Exploring Previous Consumption Experience
+This is a key question that is often overlooked: "Have you implemented a CRM before? What did you like, what didn't you like?", one question that unlocks the entire history and allows you to build the conversation correctly.
+
+### What the Client Has Already Seen
+Have they watched content, read reviews, are they familiar with the approach? This affects the depth of the presentation.
+
+### Wording, Clarifying the Meaning of Words
+When a client says "we need comprehensive automation", for the client this might mean notifications about inquiries, while for an IT company it's a year-long project. Clarify, don't be afraid to look like you don't understand. The more you clarify, the better the proposal.
+
+### Engaging Opening Question (Govorukhin Method)
+One qualifying question that provides maximum information: "What's your business? What do you sell?", and you can already predict problems, sales cycles, and build the conversation.
+
+## STAGE 3. Presentation Through Client Benefits
+
+### Main Rule
+"WE", don't talk everywhere about how wonderful we are ❌
+"YOU / YOUR child / YOUR business", present through the client's benefit ✅
+
+- Use the client's name more (and the child's name, business name)
+- Mirror the client's words: "as you mentioned," "that's exactly why"
+- Even standard text can be personalized by simply adding a name and specifics
+
+### What matters to the client:
+- Not knowledge, but CHANGES in the child / business / life
+- Not the methodology, but the REACTION / RESULT
+- Not features, but BENEFITS for them personally
+
+### Presentation Structure:
+1. Reflecting the client's need (what they said themselves)
+2. How your product solves specifically THEIR task
+3. Specifics (what they'll get, what will change)
+4. Closing question
+
+### B2C Example (children's school):
+> Marina, thank you for such a detailed response ☺️
+> As you mentioned, at this age it's important for children to find it interesting and see results
+>
+> In our classes, we structure the process so that your child, under our teachers' supervision, builds robots themselves, understands all the processes, and sees results, this significantly boosts confidence
+>
+> How about we sign you and Petya up for a free trial lesson on Wednesday at 6:30 PM?
+
+### B2B Example (AI video):
+> Your project is truly impressive, you're building an entire city 🔥
+> For one project, we can create several videos, showing how it's being built and how people will live there, transporting the viewer into the future
+>
+> Would you like to start with the project you're currently actively selling?
+
+### Proof of Benefits
+Every benefit needs to be backed by proof: a screenshot, video, case study, review, fact. Just saying "improved efficiency" is weak. A specific screenshot of results is strong.
+
+Clients have become smarter, they trust abstract benefits less. If benefits aren't proven, clients don't believe them. When there's no proof, oral stories begin, and that looks weak.
+
+### Presentation Format:
+- Text, maximum one phone screen at a time
+- In portions, not everything at once
+- Check how it displays on mobile (the designer is on a 27-inch iMac, the client is on a phone!)
+- If you need to show more, split into multiple messages
+- Use multimedia: photos, videos, video circles, diagrams
+
+### "Portfolio Before Price" Technique
+Show a relevant case from the client's niche BEFORE naming the price. The client sees professionalism → the price is perceived differently.
+
+### "Idea Generation BEFORE the Sale" Technique
+Show your vision of what can be done for the client. Demonstrate engagement in their project before the purchase.
+
+## STAGE 3.1. Building Trust
+
+### What you can use:
+- Photos/videos from lessons, production, work process
+- Client reviews (specific, with names)
+- Case studies with results
+- Screenshots of results
+- Links to Instagram/portfolio with specific works
+- Reference to a real client they can contact
+
+### Rule: don't send without explaining the benefit
+Client: "How are your classes run, can I see?"
+Us: "Of course! I'll send you a video of our classes so you can see how everything works firsthand 🙌"
+
+📌 First the WHY → then the material.
+
+## STAGE 4. Working with Price
+
+### The Right Sequence:
+First price → then explanation ❌
+**Value → Cost → Question** ✅
+
+### Never answer a "How much does it cost?" question with just the price
+First ask 1-2 questions for personalization:
+> "Sure, I'll give you the details! We have several options, could you tell me, [simple alternative question]?"
+
+### B2C Price Presentation Example:
+> In classes, children don't just build robots, they learn to think and follow through on tasks, this comes in handy both in school and in life
+>
+> The cost of a subscription for 4 classes (1.5 hours each) is 3,500 rubles
+>
+> Would you prefer to come straight to classes or first to a workshop to get to know the club?
+
+### Package Pricing
+Offer 3-4 options with a decreasing per-unit price in larger packages:
+> 1 video, 350€
+> 3 videos, 990€ (330€ each)
+> 6 videos, 1,800€ (300€ each)
+> 9 videos, 2,520€ (280€ each)
+
+### Personal Discount, in a SEPARATE Message
+As a gesture specifically for this client:
+> Specially for you, since you came from Kandemir Group, I'm offering an individual discount:
+> 1 video, 320€
+
+### Alternative Payment Question
+The most effective question, a question with choices where both options lead to payment:
+
+> Would it be more convenient for you to make a prepayment of 4,300 ₽ or the full payment of 8,600 ₽ (including your discount)?
+
+> How many videos would you like: 1, 3, 6, or 9?
+
+Why it works:
+- The person CHOOSES rather than thinking "to pay or not to pay"
+- Gently reminds about the discount
+- Doesn't sound like "give me money"
+
+### Alternative Payment Method Question
+Not "will you pay?" but "HOW is it more convenient?":
+> Payment in Turkish Lira via IBAN or USDT to a crypto wallet?
+
+### Anchoring Through External Cost
+- "Strategies separately cost from $1,500" → current price $800 = a gift
+- "Launch budget is usually $10,000" → solution = 10x savings
+- The expensive package ($3,500) makes the middle one ($800) "cheap"
+
+### Creating Scarcity (softly)
+- "Many companies want to work with us, you need to reserve a spot in the calendar"
+- "The group is already well filled"
+- "Currently enrolling 3-5 people"
+Don't shout "NO SPOTS LEFT!!!", gently create a sense of limited availability.
+
+## STAGE 5. Handling Objections
+
+### Main Rules:
+Don't argue ❌
+Don't make excuses ❌
+Support and lead forward ✅
+
+### Different situations behind the client's words:
+
+**"How much does it cost?" (before qualification)**
+DO NOT name the price immediately. First 1-2 questions:
+> "Sure, I'll give you the details! We have several plans. Could you tell me, [simple question with options]?"
+
+**"Too expensive"**
+Behind the word "too expensive" there can be 4 different situations:
+1. Pressure tool (negotiating) → shift focus: "How do you feel about the offer overall?"
+2. Not understanding the value → restart with value
+3. Genuinely doesn't fit the budget → if drastically off, don't continue
+4. Comparing with competitors → "Have you looked at others? Let's compare"
+
+Handling price pressure:
+> Client: "Can you do 15,000 TL?"
+> Seller: "17,000 TL, I can't go lower because AI tools are expensive and there are many hours of work for a quality video"
+
+Offer comparison: "There's no worst or best, just different. Let's compare our offers in detail and then you can make your final choice"
+
+Counter-argument through others' experience:
+> "Many initially went to other studios, then came back and paid twice"
+
+**"I'll think about it"**
+Behind these words there can be 3 situations:
+1. Genuinely needs time, don't pressure
+2. A polite brush-off, clarify
+3. Comparing with competitors, offer a comparison
+
+Techniques:
+- Alignment: "I understand, when I make a decision, I also weigh all options. That's exactly why we offer a trial. How about we schedule for Tuesday or would the weekend work better?"
+- Bold: "Usually when I say 'I'll think about it,' I'm politely trying to brush someone off. What's the real situation right now?"
+- Response menu: "What's the situation? 1, still interested; 2, looking at competitors; 3, need time"
+- Preemptive: "How does the price feel to you?", reveals their attitude toward the price
+
+**"Yes, and..." Technique (Yasko):**
+Don't argue, expand the offer. Client: "I want it for $800, but I can't make this cohort." Response: "Pay now, join now + the next cohort. Start SOMEHOW on this one, then refine on the next." Compromise instead of pressure.
+
+**"Payment only after delivery" (B2B)**
+Don't cave:
+1. Explain your process (cost basis, prepayment to subcontractors)
+2. Offer to start with a small volume
+3. Provide social proof (link to a real client)
+
+**Silence/Ignoring**
+- Depends on the deal stage
+- A couple of follow-up touches are mandatory
+- Ping with value (case study, material on their topic)
+- NOT "so what have you decided?"
+- Change the angle: "Could you tell me, is this still relevant?"
+- Gentle reminder: "Looks like the message got lost 🙂"
+
+## STAGE 6. Follow-ups and Closing Push
+
+### Rules:
+1. Follow up in the messenger where you were communicating
+2. If no response, go to a different messenger, but mention where you already communicated
+3. Minimum 4 touches per year to keep a lead from going cold
+
+### Reasons to Follow Up:
+- Congratulate on holidays (personalized!)
+- Enrollment in a new group
+- "Wanted to reach out but got lost"
+- Camp / seasonal offer
+- New school year
+- Promotions, bonus offers
+- Useful content related to the client's topic
+
+### The "One-Two Punch" Technique (Govorukhin):
+Send the client useful content about their pressing problem → client responds "Oh, thanks, that's great" → a window opens for a deal-related question.
+
+### "Escalation to Management" Technique (LIAT case):
+"We talked to management, we'll extend the promotion specially for you" → exclusivity, went to the boss for the client's sake.
+
+### If you can't respond right now:
+Never go silent! Pin down specific timing:
+- NOT: "I'll write to you tomorrow" (when tomorrow? what tomorrow?)
+- YES: "I'll give you an exact answer by this evening"
+- It's better to say "I'll reply in 3 hours" and reply in one, than to disappear
+- "I'm in a meeting right now, I'll get back to you in 2 hours with a full answer"
+
+The client needs to understand: are they in an active conversation with you or should they look for other options. When the client understands the dialogue is active, the desire to "go look around" decreases, you automatically become the "main option."
+
+## STAGE 7. Closing and Confirmation
+
+### When the client agrees, it's important to:
+- Confirm the date, time, address
+- What to bring / how to prepare
+- Mention that we're in this chat and they can always ask questions
+- A day before the event, a short reminder
+
+### B2C Confirmation Example:
+> Great, we've signed you up for the workshop
+> March 9, Wednesday
+> Time: 1:00 PM
+> Address: ___
+>
+> We provide all handout materials, you don't need to bring anything, just you and Petya, and by the way, you can also invite friends!)
+>
+> If you have any questions, write to us, okay?
+
+### B2B Confirmation Example (after payment):
+> Thank you, payment received. I've planned the work for your project and started the process.
+>
+> I need from you:
+> 1. Google Drive with materials (drone photos, interiors)
+> 2. Who to show in the video (owner, team?)
+> 3. What details must be shown
+>
+> Can you send these today?
+
+### Meeting/Call Summary (follow-up):
+After every call or Zoom, be sure to send key points in the messenger: what was discussed, what the next steps are. This is professional hygiene. Everyone says "you should do it", almost nobody does.
+
+## STAGE 8. Post-Sale Service
+
+### After a trial lesson/workshop (if they didn't buy):
+- Write, emphasize what specifically their child accomplished
+- Reiterate the discount
+- End with a question inviting them to classes / choosing a group
+
+### After a purchase:
+- Restate the schedule/next steps
+- Send a link to the group chat
+- Congratulate on the purchase (emotion)
+- Suggest the next step
+
+### Upselling:
+Only possible AFTER the main payment is closed. Not before.
+> "Victoria, I'll write up the payment details now, and by the way! We currently have [promotion], how about we take a look for you?"
+
+### "Bonus When There's a Problem" Technique:
+Delivery delay → "As a gift, +30 seconds to the video (usually +200€)" + strategic advice. Negative → additional value.
+
+---
+
+# PART 4. PAYMENT CLOSING LOGIC
+
+## 4.1. Why Clients "Drop Off" Before Payment
+
+NOT because they changed their mind. But because we break the payment moment.
+
+### Main Reasons:
+1. **Overloading with unnecessary information**, the client already agreed, and they don't need timelines, details, or "future" questions. All of this breaks focus.
+2. **Asking questions that don't lead to payment**, skipping dialogue stages
+3. **Starting upsells too early**, until the payment is closed, no promotions or bonuses. Upselling only when they say "where do I transfer?"
+4. **No closing question**, the client read it and just took note
+
+### Key Rule:
+**No question → no answer → no sale**
+
+### The main goal of this stage, get a prepayment or payment.
+That's it. Not to be liked, not to tell everything, not to be "very caring." But to softly, calmly guide to payment.
+
+## 4.2. Closing Sequence
+
+### Step 1, Locking in the Choice
+Found a common option, agreed, the person said "yes." Here we DON'T sell, we CONFIRM.
+
+### Step 2, Final Message (summary)
+Put everything into one picture: what they get, final price, gift (as a fact). WITHOUT questions. This is confirmation, not a dialogue.
+> "So we're finalizing: [product] → [details] → [gift] → cost [X] rubles"
+
+### Step 3, Wait for a Reaction
+The client chooses the gift or simply reacts. A marker of readiness to pay.
+
+### Step 4, Payment Question (key)
+Immediately. Without pauses. Without "if it's convenient." Alternative question:
+> Adelia, would it be more convenient for you to make a prepayment of 4,300 ₽ or the full payment of 8,600 ₽ (including your discount)?
+
+### Step 5, Payment Method
+ONLY after the client responds. List the options, ask which is more convenient.
+
+### Step 6, Immediate Transition to Action
+After agreement, zero idle chat. "Done. Send your email."
+
+## 4.3. One Message, One Goal
+
+Don't write everything in one huge text. Don't mix gifts, payment, and payment methods.
+
+### Sequence in a live dialogue:
+**Message 1**, summary (what, details, gift, price) → ⏸ wait for response
+**Message 2**, payment question → ⏸ wait for response
+**Message 3**, payment method + question "which option works?"
+
+The result: the client isn't overwhelmed, they feel in control of the process, each step is logical, the conversation hasn't "gone somewhere." We're not pushing, WE'RE LEADING THE CONVERSATION.
+
+---
+
+# PART 5. CROSS-CUTTING COMMUNICATION RULES
+
+## 5.1. Emotional Tone
+
+We ALWAYS emotionally react to the client's message. This isn't about a million emojis, it's about the fact that a reaction ALWAYS EXISTS.
+
+### "Emotion → Action" Rule:
+1. Emotion in response to the client's message
+2. Next logical step
+
+### Reaction Examples:
+- "Great choice ✨"
+- "Yes, that looks really beautiful"
+- "Oh, that's my favorite option too"
+- "Excellent, let's lock it in"
+- "Wow, that's impressive 🔥"
+
+Chosen based on the meaning of the client's response. This is a template, not a memorized script. We react in a LIVELY way, not automatically.
+
+If the client communicates dryly, find the golden mean, don't overdo it. Empathy is what sets us apart from robots (although even they can do it now).
+
+## 5.2. Lightness in Messaging
+
+- Write the way you talk in real life
+- Fewer periods, dashes, unnecessary punctuation marks that interfere with reading
+- Add humor, emotions where appropriate
+- Don't look like a document or portfolio
+- Don't look like a ChatGPT response
+- Messaging = a light dialogue, like between people who have a connection
+
+## 5.3. Compliments and Personalization
+
+- Give compliments sincerely, not formulaically, not from ChatGPT
+- Notice SPECIFIC things (not "cool project," but "I especially liked the third option, apartment 225, I'd save it to my vision board")
+- The client wants to hear about THEMSELVES, talk about THEM, not about yourself
+- Use the client's name (and the child's name, business name) in messages
+- Mirror the client's words: "as you mentioned," "that's exactly why"
+- Don't overdo it, the golden mean
+- Learn to give compliments, it's developed through practice
+
+## 5.4. The 3-Second Rule
+
+A message should be understandable in 3 seconds. The better it's written, the easier it's perceived, the faster it's read, the faster it gets a response.
+
+To achieve this:
+- Break into paragraphs by meaning (1st point, 2nd, 3rd, question)
+- The key question, separate from the main text (with a space or as a separate message)
+- If the message is long, the question goes in a SEPARATE message, because the question is what the client needs to see
+- Dates, with spaces between them
+- The client most often reads the message FROM THE END. If the question isn't visible, the message goes into ignore
+
+## 5.5. Formatting Links
+
+We live in an era of digital fraud, people are afraid to click on links. If there's no explanation of what's behind the link, they may ignore it.
+
+Every link = explanation + expected result + visual order.
+
+A person should understand in 3 seconds:
+1. Where they'll end up
+2. What they'll see
+3. Why they should go there
+4. What's expected of them afterward
+
+Rules:
+- Each link, on a new line
+- Short clear labels
+- Visual anchors (emojis/markers) if there are many links
+
+**Rule: First the meaning → then the links → then the question**
+
+### Example:
+> Sending examples so you can immediately understand the style:
+>
+> ▶️ AI video example for a developer
+> 50 seconds, emphasis on visuals and trust
+> Link: https://...
+>
+> ▶️ Video example with "wow effects"
+> Suitable for advertising and social media
+> Link: https://...
+>
+> After watching, let me know which format resonated more, okay?
+
+## 5.6. Clarification Message Formula
+
+When there's confusion, things left unsaid, different interpretations. Frustration = expecting the client to "figure it out themselves." Sales = you take responsibility for clarity.
+
+**Formula: Reflection → Choice → Confirmation → "Right?"**
+
+> I'd like to clarify so we understand each other correctly 👌
+> Am I right that you need:
+>, An AI video ~50 seconds
+>, with effects and dynamics
+>, to attract clients
+>
+> Or is the task more about:
+>, a project presentation
+>, and investor trust?
+>
+> Right?
+
+One question mark. Short lines. No mess.
+
+Rules:
+Don't write when emotional ❌
+Don't write "as it comes to mind" ❌
+If in doubt, run it through ChatGPT ✅
+Mistakes = minus trust (especially in services and money) ✅
+
+## 5.7. Final Filter Before Sending
+
+Before every message, ask yourself:
+1. Is what I wrote understandable in 3 seconds?
+2. Is there one clear question?
+3. Is it comfortable to read?
+4. Does it make you want to respond?
+
+If even one answer is "no", rewrite. Everything is developed through practice.
+
+## 5.8. Don't Think for the Client in Advance
+
+❌ We try to calculate everything in advance: what they'll write, how they'll respond, what if they ask this, what if they misunderstand. At that moment, the sale turns into tension.
+✅ YOUR TASK, offer options. The client's task, choose what fits. The dialogue simply builds from there.
+
+## 5.9. Focus on What You Sell
+
+If something isn't in the product line, don't emphasize it. Don't explain why you don't do it. Explain what you do sell, and keep the focus on that. Don't take on everything, become an expert in your niche.
+
+## 5.10. Selling the Idea of a Call / Meeting / Diagnostic Session
+
+You need to explain the VALUE of the call FOR THE CLIENT, not for yourself.
+
+"Let's get on a call, we'll discuss it" ❌
+"Let's meet, we'll find common ground" ❌
+
+"I suggest a 5-7 minute call. I'll clarify the task, show how we deploy the service, and you'll have a full understanding of the cost. When works for you?" ✅
+
+"Let's do a call, 5 minutes to clarify the process, 7 minutes to show the system, and you'll have answers: how to accomplish [task] and how much it costs" ✅
+
+### Offer a format choice:
+> I'd like to dig deeper into the task. Two options:
+> 1. A 20-minute Zoom call on a day that works for you
+> 2. I'll ask 7 questions here, you can answer with text or voice messages
+> Which is more convenient?
+
+---
+
+# PART 6. CASHIER vs SALESPERSON
+
+## 6.1. The Key Difference
+
+- **Cashier**, simply rings up the item. Neatly, carefully, but without closing the payment.
+- **Salesperson**, asks the right questions and earns more.
+
+Usually everyone writes like a very good cashier: everything is neat, but without closing.
+
+A sale happens ONLY through dialogue / proposals / questions.
+
+## 6.2. "Reference Desk" Mode, The Main Enemy of Sales
+
+When a business simply provides information without questions, without trying to lead a conversation, without initiative. The client is forced to pull out information themselves, and goes to whoever showed initiative, asked a question, or invited them to a workshop.
+
+## 6.3. The Sales Process = Part of the Product
+
+We remember great salespeople and want them specifically to sell to us. If competitors have personalized offers and you have one template presentation, they'll choose the competitors. Even with the same product.
+
+---
+
+# PART 7. ANTI-PATTERN CATALOG (20 Mistakes)
+
+| # | Mistake | What Happens | What to Do |
+|---|---------|--------------|------------|
+| 1 | Complete ignoring / no response | Anti-advertisement, worse than a bad answer | Respond to EVERYONE, ALWAYS |
+| 2 | Slow response (hours/days) | Client went to a competitor | Respond in minutes. Parking message if you can't |
+| 3 | Reference desk mode (no question) | Client got info and left | Answer + warmth + question |
+| 4 | "Look it up yourself" (to website/profile) | Client gets lost | Select, offer specifics |
+| 5 | Price without value | "Too expensive" / leaves | Value → Cost → Question |
+| 6 | Dumping the price list/catalog | Overload, leaves | Questions → select an option |
+| 7 | Wall of text | Won't read, ignores | Break up, portions, one screen max |
+| 8 | Voice messages without asking | Can't listen | Text, or ask permission |
+| 9 | Link without context | Ignores, afraid | Explanation + what they'll see + question |
+| 10 | Spam without personalization | Gets blocked | Study the client, personalize |
+| 11 | Giving up at "too expensive" ("Okay") | Lost sale | Find out the reason, offer an alternative |
+| 12 | Defensive stance | Tension | Focus on the solution |
+| 13 | Deciding for the client (assuming) | Missed sales | Follow through to logical conclusion |
+| 14 | Switching between channels | Lose the client | Continue where you started |
+| 15 | No closing question | Conversation stalls | ALWAYS a question at the end |
+| 16 | Upselling before payment | Breaks focus | Main payment first |
+| 17 | Forgetting about the client | Loss | CRM / reminders |
+| 18 | Coldness / dryness | No trust | Emotion → Action |
+| 19 | Cutesy diminutives ("little application", "quick call-y") | Cringe for all ages | Normal words |
+| 20 | Fake urgency | Distrust | Soft, real scarcity |
+
+---
+
+# PART 8. WORKING WITH THE CLIENT BASE AND DEFERRED DEMAND
+
+## 8.1. Principle
+Leads have different warmth levels. Some want to buy today, others will be ready in 3 months. You can't always speed it up. You need to stay in touch.
+
+## 8.2. Minimum Number of Touches
+If you communicate fewer than 4 times per year, the lead goes cold. Minimum 4 touches per year to maintain contact.
+
+## 8.3. Content for Nurturing
+When a client isn't buying now, leave them with good content: case studies, video reviews, useful materials. Content sells when there's no salesperson around.
+
+## 8.4. Database Reactivation
+Scripts for bringing back people who inquired a long time ago and didn't buy. Up to 30% of profit. Example: LIAT eco-spa's outreach brought back a client after 5 months → double sale.
+
+## 8.5. Data Storage
+All communication, in CRM. Not on the manager's personal phone. The client database is the main business asset.
+
+---
+
+# PART 9. CONTENT AS A SALES TOOL
+
+## 9.1. Content Artifacts
+It's better not to make up content, but to collect it. Describe real processes, cases, results. Simply "our clients, [logos]", doesn't work. You need to show the substance of the work.
+
+## 9.2. Types of Content for Messaging:
+- Screenshots of results
+- Work process videos
+- Video circles (personal)
+- Case studies with specific numbers
+- Reviews (formalized, with facts)
+- Diagrams and visual explanations
+- Documentary project stories (long reads)
+
+## 9.3. The Sales Process as Value
+Ideally, the sales process is valuable in itself for the client. Even if they didn't buy, they left more knowledgeable. This is expert selling.
+
+## 9.4. Simple Presentation of Complex Services
+The simpler a complex service is presented, the higher the likelihood of a sale. "Comic book" mode: show each point with an image. Visuals work better than text.
+
+---
+
+# PART 10. TECHNICAL ASPECTS
+
+## 10.1. Profile Setup
+- A proper face photo (not from the beach, not without a profile picture)
+- First and last name (remove nicknames)
+- Description: what you do, how you're useful (not "we connect WhatsApp," but "we increase sales through...")
+- Update the photo every year or two (recurring task in calendar)
+- Check how your profile looks from the client's perspective
+
+If a salesperson writes to us without a photo, there's an air of anonymity. What are you hiding?
+
+## 10.2. Multi-Channel Presence
+- Be where it's convenient for the client
+- Don't force them to switch to a different messenger
+- Ask: "Which messenger is best for staying in touch so I don't get lost?"
+- Collect everything in CRM
+
+## 10.3. Automation
+- Chatbots can help with initial qualification and response speed
+- BUT: don't make it complicated and excessive. A simple bot with one question is better than a complex one with ten
+- Make bot messages as human and lively as possible
+- Template auto-messages, push people away
+
+## 10.4. Channel Combination
+The most powerful combination, a smart mix of calls and messaging:
+- After a call, follow-up in the messenger (call summary)
+- From messaging, sell the idea of a call to speed things up
+- At different stages, different channels
+
+## 10.5. Voice Messages and Video Circles
+- Advantage: convey emotion, energy, save time
+- Rule: use carefully, at later stages, by agreement
+- Voice messages FROM the client, are valuable (more information, tone, emotions)
+- Video circle from the seller, powerful personalization, wow effect
+
+## 10.6. Stories on Telegram and WhatsApp
+A working tool for warming up current and former clients. Show: what's interesting right now, new items, work processes. A directly effective tool, especially where Instagram doesn't work.
+
+---
+
+# PART 11. WORKING WITH DIFFERENT GENERATIONS
+
+## 11.1. Zoomers (under 25)
+- Don't like calls
+- Want simple, easy communication
+- Cringe: being informal because of their age, cutesy diminutives ("let me file your little application"), "unique offer, decide right now," excessive seriousness
+- Want a company "on their wavelength"
+- Call formal style "old person tone"
+
+## 11.2. Older Generation
+- Often prefer calls
+- May not trust purchases through messengers
+- Value seriousness and detail
+- More patient in messaging
+
+## 11.3. Universal Approach
+- Write shorter, simpler, with specifics
+- Explain the value of the next step
+- Adapt to the client's style
+- More interactions with different types, more skill
+- Don't force yourself to be someone you're not, authentic style works better
+
+---
+
+# PART 12. PHRASE LIBRARY
+
+## 12.1. First Contact
+- "Good afternoon, [Name]! Could you tell me, [simple alternative question]?"
+- "[Name], hello! You were interested in [specifics]. Could you tell me, [question]?"
+- "What's your business? What do you sell?" (for B2B)
+- "Merhaba, kolay gelsin 😊" (cultural adaptation)
+
+## 12.2. Qualification
+- "Have you [used something similar] before? What did you like, what didn't you like?"
+- "What's more important to you: [option 1] or [option 2]?"
+- "What purpose do you need [product] for? [option A], [B], or [C]?"
+- "Do you already have materials or do we need to start from scratch?"
+- "What criteria are you using to choose a specialist right now?"
+
+## 12.3. Presentation
+- "In your case, the perfect fit would be..."
+- "As you mentioned, [mirroring their words]. That's exactly why..."
+- "[Child's/business name] will get..."
+- "Your project is impressive, I can prepare a video with high views"
+
+## 12.4. Selling a Call/Meeting
+- "I suggest a 5-7 minute call. I'll clarify the task, show [what], and you'll have an understanding of the cost. When works for you?"
+- "A 20-minute Zoom: I'll understand the task, explain the approach. Then you'll think it over and decide"
+
+## 12.5. Closing
+- "Shall we finalize?" / "Shall we book it?" / "Shall we proceed to the contract?"
+- "Prepayment [amount] or full payment [amount] (including the discount)?"
+- "How is it more convenient to pay, online or cash?"
+- "Turkish Lira or USDT?"
+- "Done. Send your email." (immediate transition after agreement)
+
+## 12.6. Objections
+- "I understand. How do you feel about the offer overall?"
+- "How does the price feel to you?"
+- "Have you looked at others? Let's compare"
+- "Let me send you the description, you review it, and we'll follow up tomorrow. Sound good?"
+- "There's no worst or best, just different. Let's compare"
+- "Start somehow now, refine later" ("Yes, and..." technique)
+- "17,000 TL, I can't go lower because [reason]"
+
+## 12.7. Re-engaging a Silent Client
+- "[Name], we were talking the other day about [topic]. Is it still relevant?"
+- "I found an interesting case study about [topic]. Want me to send it?"
+- "What's the real situation? 1, still interested; 2, chose something else; 3, need more info"
+- "Looks like the message got lost 🙂"
+
+## 12.8. Getting Information for the Boss (B2B)
+- "What questions will your manager definitely ask, aside from the price? What's important to consider?"
+
+## 12.9. Programming the Dialogue
+- "Let's do this: I'll tell you about the options, but first a couple of questions. Okay?"
+- "Let me walk you through it! We have several options, I'll clarify a couple of things to suggest the best one"
+
+## 12.10. Bonuses and Escalation
+- "We talked to management, we'll extend the promotion specially for you"
+- "As a gift, +30 seconds to the video (usually +200€)"
+- "I'm keeping the old price for you, even though prices have gone up"
+
+---
+
+# PART 13. CHECKLIST
+
+## Before every message:
+1. ☐ What is the GOAL of this message?
+2. ☐ Is there a question at the end?
+3. ☐ Is the client's name used?
+4. ☐ Is the message understandable in 3 seconds?
+5. ☐ Am I talking about the client, not about myself?
+6. ☐ Is there an emotional reaction?
+7. ☐ Am I not overloading with information?
+8. ☐ Is the question visually separated?
+9. ☐ Am I proposing a specific next step?
+10. ☐ Does it make you want to respond?
+
+## At every stage:
+1. ☐ Do I know where I'm heading (target action)?
+2. ☐ Have I learned enough for personalization?
+3. ☐ Am I not turning this into an interrogation?
+4. ☐ Am I offering a choice (alternative question)?
+5. ☐ Am I presenting through benefits, not through "we"?
+6. ☐ Is the price after value?
+7. ☐ Is there a closing question?
+8. ☐ Is there an agreement on the next step?
+
+---
+
+*Synthesized from the methodology of Sofia Dobrynina, expert materials from Vitaliy Govorukhin, Alexander Matsko, cases from Vladislav Yasko, LIAT eco-spa, Omer ARI, Fatih Yavas, and analysis of 50+ real conversations from various niches.*
